@@ -4,5 +4,5 @@
 ### 创建个人网站的目的
 纯粹是无聊，有点点好奇心，学汛推荐的。
 ####照骗
-<img src="IMG_5242.PNG" alt="海滩照" width="300" height="200">
+<img src="IMG_9111.jpg" alt="海滩照" width="500" height="500">
 
